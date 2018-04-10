@@ -1,2 +1,6 @@
 不会认同比如
+<<<<<<< HEAD
 不让他把日本人
+=======
+Creating a new branch is quick
+>>>>>>> dev
